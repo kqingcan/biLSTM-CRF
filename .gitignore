@@ -1,0 +1,8 @@
+/.idea
+/_pycache_
+/data
+/Lab3
+/model
+/venv
+*.utf8
+*.txt
